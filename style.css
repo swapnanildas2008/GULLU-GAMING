@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 100px;
+}
+
+#welcome {
+    background: linear-gradient(#2cd8e8 0%, #e82c2c 100%);
+    z-index: 9;
+}
+#image{
+    height: 200px;
+    border-radius: 50%;
+}
+h1{
+    color:aqua;
+}
+hr {
+  height: 10px ;
+  background-color: darkorange;
+}
+h2{
+    color:yellow;
+    font-family: 'Goldman', cursive;
+}
+#qwerty{
+    width: 1000;
+    float: center;
+}
+.qwerty{
+     background: linear-gradient(#2cd8e8 0%, #e82c2c 100%);
+    z-index: 9;
+}
+.image{
+   background: linear-gradient(#2cd8e8 0%, #e82c2c 100%);
+    z-index: 9; 
+}
+.about me{
+  background: linear-gradient(#2cd8e8 0%, #e82c2c 100%);
+    z-index: 9;   
+}
+button{
+    background-color: yellow;
+    color:red;
+}
